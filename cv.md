@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/106312811/172066003-adb42ae2-4316-4f76-b434-469d46162658.png)
 # Diana Mikheeva
-### Junior Frontend Developer 
+***Junior Frontend Developer*** 
 ## Contacts:
 * E-mail: mikh-di@mail.ru
 * Telegram: @mih2eva
